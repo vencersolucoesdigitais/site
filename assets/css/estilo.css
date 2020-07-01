@@ -1,0 +1,16 @@
+/*marcoes gerais*/
+body{font-family: Arial, Helvetica, sans-serif;}
+
+/*menu topo*/
+.menu{position: absolute; z-index: 10;}
+.menu{background-color: #3D4B95; height: 53px; padding-top: 10px;}
+.menu a{text-decoration: none !important; text-align: center;}
+.menu a{color:#C8C5E2; font-size: 20px; padding:11px;}
+.menu a:hover{background-color: #3E4095; color:#fff;}
+
+
+/*box-pag-um*/
+.bg-box-pag-um{background-color: darkblue;}
+.bg-img-logo{background-color: #3D4B95; margin: 15px 0 15px 0; border-radius: 10px 0 0 10px;}
+.bg-img-marcas{margin: 20px 0 0 0; text-align:center;}
+.bg-img-marcas h3{position: absolute; margin: 80px 0 0 60px; color:#fff;}
