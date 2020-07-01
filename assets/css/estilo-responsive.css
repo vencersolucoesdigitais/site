@@ -23,7 +23,7 @@
         font-size: 20px;}
        .menu a{display: block;}
        .menu .box-menu{border:0px solid darkblue; width: 300px; background-color: darkblue;
-       margin: 0 auto;}
+       margin: 0 auto; box-shadow: 1px 1px 3px #fff;}
        .menu .menu-esconde{display: none;}
     
 }
