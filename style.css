@@ -16,9 +16,13 @@ h3{
     font-size: 3em;
 }
 
+.links{
+    padding: 10px;
+}
+
 .links div{
     /*border:1px solid blue;*/
-    width: 400px; 
+    width: 100p%; 
     padding: 20px; 
     margin: 0 auto;
     margin-top: 5px;  
