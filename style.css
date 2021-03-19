@@ -1,19 +1,31 @@
 body{
-    background: rgb(33, 24, 204);
-background: linear-gradient(180deg, rgba(33, 23, 219, 0.664) 0%, rgba(110,190,230,1) 29%, rgba(117,189,228,1) 43%, rgba(0,212,255,0) 100%);
-background-repeat: no-repeat; 
-text-align: center;
-    font-family: 'Calibri';
-    
+    margin: 0;  
+    background: rgb(33, 24, 204);    
+    background: linear-gradient(180deg, rgba(33, 23, 219, 0.664) 0%, rgba(110,190,230,1) 29%, rgba(117,189,228,1) 43%, rgba(0,212,255,0) 100%);
+    background-repeat: no-repeat; 
+    text-align: center;
+    font-family: 'arial';    
 }
 
+.logo{
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+    margin: 10px auto;
+    background-color: #fff;
+    border:2px solid darkblue;
+    border-radius: 100px;
+}
 .logo img{
-    width: 0px;
-    height: 0px;
+    margin-top: 15px;
+    width: 100px;
+    height: 100px;    
 }
 
 h3{
     font-size: 3em;
+    color:darkblue;
+    
 }
 
 .links{
@@ -37,5 +49,16 @@ h3{
 
 .links a{
     text-decoration: none;
+}
+
+.rodape{
+   
+    background-color: rgba(128, 128, 128,0.2);
+    padding: 10px;
+    width:100%;
+    color:Black;
+    /*position: absolute;;
+    bottom:0px;
+    left:0px;*/
 }
 
